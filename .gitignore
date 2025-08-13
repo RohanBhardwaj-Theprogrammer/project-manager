@@ -1,0 +1,18 @@
+# Ignore user-specific config and logs
+user_data.json
+*.log
+js fetch logs of files.json
+.setup_marker
+
+# Windows noise
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python virtual envs
+venv/
+.env/
+
+# Temporary
+*.tmp
+*.bak
